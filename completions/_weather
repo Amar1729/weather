@@ -1,4 +1,4 @@
-#compdef _weather weather
+#compdef weather
 
 function _weather {
 
