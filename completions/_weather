@@ -1,0 +1,8 @@
+#compdef _weather weather
+
+function _weather {
+
+    _arguments "1: :(baltimore hershey)"
+}
+
+_weather "$@"
